@@ -1,0 +1,6 @@
+"product_id","product_name","category","price","stock_quantity","supplier_name","supplier_city","supply_date"
+14,"DSLR Camera","Electronics",55000,30,"Nikon India","Mumbai","2022-09-08"
+1,"Laptop","Electronics",45000,50,"Tata Electronics","Mumbai","2023-01-05"
+8,"Television","Electronics",40000,40,"Sony India","Mumbai","2023-01-30"
+6,"Air Conditioner","Electronics",35000,25,"Voltas Ltd","Ahmedabad","2022-12-25"
+15,"Gaming Console","Electronics",35000,50,"Microsoft India","Pune","2023-04-10"
